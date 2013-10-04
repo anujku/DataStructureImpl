@@ -1,4 +1,4 @@
-DSImpl
-======
+DataStructureImpl
+==================
 
 Data Structure Implementation using Java
